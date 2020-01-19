@@ -1,0 +1,8 @@
+﻿  fat32.cpp
+C:\Users\yegor\source\repos\fat-info-analyzer\fat32.cpp(105): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yegor\source\repos\fat-info-analyzer\fat32.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yegor\source\repos\fat-info-analyzer\fat32.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yegor\source\repos\fat-info-analyzer\fat32.cpp(142): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yegor\source\repos\fat-info-analyzer\fat32.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yegor\source\repos\fat-info-analyzer\fat32.cpp(157): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  fat-info-analyzer.vcxproj -> C:\Users\yegor\source\repos\fat-info-analyzer\Debug\fat-info-analyzer.exe
