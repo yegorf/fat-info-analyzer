@@ -67,5 +67,7 @@ int ReadClusters(char Path[7] ,MBR* bootSector, vector<DWORD> links, vector<BYTE
 
 int ReadDirectory(char Path[7] ,MBR* bootSector,Directory* directory, vector<Directory>& entries);
 
+void DisplayFile(vector<Directory> entries, char fileLetter);
+
 void DisplayDirectory(vector<Directory> entries);
 };
